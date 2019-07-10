@@ -5,9 +5,6 @@ date: 2019-07-10 10:00:38
 tags: 
 categories: 
 ---
-今天发一篇"水文"，可能很多读者都会表示不理解，不过我想把它作为并发序列文章中不可缺少的一块来介绍。本来以为花不了多少时间的，不过最终还是投入了挺多时间来完成这篇文章的。
-
-网上关于 HashMap 和 ConcurrentHashMap 的文章确实不少，不过缺斤少两的文章比较多，所以才想自己也写一篇，把细节说清楚说透，尤其像 Java8 中的 ConcurrentHashMap，大部分文章都说不清楚。终归是希望能降低大家学习的成本，不希望大家到处找各种不是很靠谱的文章，看完一篇又一篇，可是还是模模糊糊。
 
 阅读建议：四节基本上可以进行独立阅读，建议初学者可按照 Java7 HashMap -> Java7 ConcurrentHashMap -> Java8 HashMap -> Java8 ConcurrentHashMap 顺序进行阅读，可适当降低阅读门槛。
 
